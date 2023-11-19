@@ -1,0 +1,6 @@
+[submodule "alumni-authentication"]
+	path = alumni-authentication
+	url = git@github.com:qmainuddin/alumni-authentication.git
+[submodule "ea-nov-2023-project-1"]
+	path = ea-nov-2023-project-1
+	url = git@github.com:qmainuddin/ea-nov-2023-project-1.git
