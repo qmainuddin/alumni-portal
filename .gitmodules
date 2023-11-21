@@ -25,3 +25,9 @@
 [submodule "event-service"]
 	path = event-service
 	url = git@github.com:qmainuddin/event-service.git
+[submodule "alumni-discovery-server"]
+	path = alumni-discovery-server
+	url = git@github.com:qmainuddin/alumni-discovery-server.git
+[submodule "alumni-config-server"]
+	path = alumni-config-server
+	url = git@github.com:qmainuddin/alumni-config-server.git
