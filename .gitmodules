@@ -4,3 +4,6 @@
 [submodule "ea-nov-2023-project-1"]
 	path = ea-nov-2023-project-1
 	url = git@github.com:qmainuddin/ea-nov-2023-project-1.git
+[submodule "alumni-api-gateway"]
+	path = alumni-api-gateway
+	url = git@github.com:qmainuddin/alumni-api-gateway.git
