@@ -7,3 +7,21 @@
 [submodule "alumni-api-gateway"]
 	path = alumni-api-gateway
 	url = git@github.com:qmainuddin/alumni-api-gateway.git
+[submodule "work-experience-service"]
+	path = work-experience-service
+	url = git@github.com:qmainuddin/work-experience-service.git
+[submodule "survey-service"]
+	path = survey-service
+	url = git@github.com:qmainuddin/survey-service.git
+[submodule "news-service"]
+	path = news-service
+	url = git@github.com:qmainuddin/news-service.git
+[submodule "attendance-service"]
+	path = attendance-service
+	url = git@github.com:qmainuddin/attendance-service.git
+[submodule "jobpost-service"]
+	path = jobpost-service
+	url = git@github.com:qmainuddin/jobpost-service.git
+[submodule "event-service"]
+	path = event-service
+	url = git@github.com:qmainuddin/event-service.git
