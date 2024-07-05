@@ -78,13 +78,13 @@ The Alumni Portal is a comprehensive platform designed to manage and engage with
 ```sh
 git clone https://github.com/qmainuddin/alumni-portal-combined.git
 cd alumni-portal-combined
-
+```
 
 
 ## Configure Environment Variables
 Create a .env file in the root directory and configure the following variables:
 
-```bash
+```properties
   POSTGRES_USER=your_postgres_user
   POSTGRES_PASSWORD=your_postgres_password
   POSTGRES_DB=your_postgres_db
